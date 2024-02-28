@@ -1,0 +1,26 @@
+{
+  "name": "abhi-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geekcv/abhi-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geekcv/abhi-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Geekcv/abhi-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
